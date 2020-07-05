@@ -8,7 +8,7 @@
 
 > 自豪地采用[谷歌翻译](https://translate.google.cn/)
 
-+ [在线阅读](https://www.gitbook.com/book/wizardforcel/think-comp-2e/details)
++ [在线阅读](https://think-comp.apachecn.org)
 + [PDF格式](https://www.gitbook.com/download/pdf/book/wizardforcel/think-comp-2e)
 + [EPUB格式](https://www.gitbook.com/download/epub/book/wizardforcel/think-comp-2e)
 + [MOBI格式](https://www.gitbook.com/download/mobi/book/wizardforcel/think-comp-2e)
