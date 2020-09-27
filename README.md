@@ -14,6 +14,16 @@
 + [MOBI格式](https://www.gitbook.com/download/mobi/book/wizardforcel/think-comp-2e)
 + [代码仓库](https://github.com/Kivy-CN/think-comp-2e-zh)
 
+## 下载
+
+### NPM
+
+```
+npm install -g think-comp-2e-zh
+think-comp-2e-zh <port>
+# 访问 http://localhost:{port} 查看文档
+```
+
 ## 赞助我
 
 ![](img/qr_alipay.png)
