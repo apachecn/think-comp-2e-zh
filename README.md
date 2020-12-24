@@ -9,6 +9,7 @@
 > 自豪地采用[谷歌翻译](https://translate.google.cn/)
 
 + [在线阅读](https://think-comp.apachecn.org)
++ [在线阅读（Gitee）](https://apachecn.gitee.io/think-comp-2e-zh/)
 + [PDF格式](https://www.gitbook.com/download/pdf/book/wizardforcel/think-comp-2e)
 + [EPUB格式](https://www.gitbook.com/download/epub/book/wizardforcel/think-comp-2e)
 + [MOBI格式](https://www.gitbook.com/download/mobi/book/wizardforcel/think-comp-2e)
